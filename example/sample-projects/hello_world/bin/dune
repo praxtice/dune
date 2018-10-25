@@ -1,5 +1,5 @@
 (executables
- (names main)
+ (name main)
  (libraries hello_world))
 
 (install
